@@ -1,0 +1,35 @@
+-----------------------------------------------------------
+FONTLOG for Thold
+-----------------------------------------------------------
+
+PROJECT DESCRIPTION
+Thold is a handwriting typeface. It was originally created using Calligraphr and 
+subsequently refined with FontForge to ensure correct metadata 
+and compliance with open-source licensing standards.
+
+The typeface features a bold and quickly written style, 
+making it ideal for personal notes, invitations, or digital 
+scrapbooking.
+
+INFORMATION FOR DESIGNERS
+If you wish to modify or contribute to this font, please refer 
+to the terms of the SIL Open Font License (OFL).
+
+CHANGELOG
+(This section documents all versions and updates)
+
+May 1, 2026 Version 1.000
+- Initial release on GitHub.
+- Uppercase character set, numbers, common punctuation.
+- Licensed under SIL Open Font License 1.1.
+- Updated metadata and cleaned up font information.
+
+CONTRIBUTORS
+The following individuals have contributed to this project:
+
+- Kim A. Nguyen (Original author of the handwriting)
+  [kimanh.io]
+
+ACKNOWLEDGMENTS
+- Thanks to Calligraphr for the digitization base tool.
+- Thanks to the community at SIL International for providing the OFL.
